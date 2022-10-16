@@ -24,6 +24,8 @@
 
   > https://start.me/p/ydjlMm/voices
 
+  > https://github.com/MasterKia/PersianBlocker
+
   > https://github.com/sobhe/moratab
 
 
