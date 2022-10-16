@@ -31,6 +31,12 @@
 
 </br>
 
+<p align="center">
+  <img width="1000" height="100" src="https://see.fontimg.com/api/renderfont4/7Bpow/eyJyIjoiZnMiLCJoIjo1OSwidyI6MTAwMCwiZnMiOjU5LCJmZ2MiOiIjMEU3NzBFIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V29tZW4gTGlmZSBGcmVlZG9t/broadway-regular.png" alt="banner">
+</p>
+
+</br>
+
 ## لیست پروکسی
 
   > https://github.com/TheSpeedX/PROXY-List
