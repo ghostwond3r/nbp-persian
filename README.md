@@ -20,13 +20,20 @@
 
 </br>
 
+## صفحه وب و راهنما که به زبان فارسی باشد
+
+  > https://start.me/p/ydjlMm/voices
+
+  > https://github.com/sobhe/moratab
+
+
+</br>
+
 ### فضای اختصاصی ساخته شده توسط من و به روز
 
 | توجه: ابزارهای زیر به زبان انگلیسی هستند.
 
   > https://github.com/NeverWonderLand/ghostpack
-  
-  > https://start.me/p/ydjlMm/voices
   
   > https://start.me/p/MEDrOn/newblood
  
