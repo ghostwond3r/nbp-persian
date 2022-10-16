@@ -2,8 +2,7 @@
 
 هدف در اینجا کمک با ارائه برخی منابع و دانش است. برای مردم، توسط مردم.
 
- هدف این است که بر موارد ضروری تمرکز کنیم، تا آنچه را که در واقعیت وجود دارد یاد بگیریم.
-
+ 
 
 <p align="right">
   <img width="200" src="http://www.payvand.com/news/05/jan/iranian-flag_files/image005.gif" alt="Icons">
