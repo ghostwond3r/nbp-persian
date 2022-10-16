@@ -2,10 +2,10 @@
 
 هدف در اینجا کمک با ارائه برخی منابع و دانش است. برای مردم، توسط مردم.
 
- 
+ فایل بیشتر به زودی ترجمه خواهد شد. برای کمک لطفا با من در توییتر در @wond3rghost تماس بگیرید
 
-<p align="right">
-  <img width="200" src="http://www.payvand.com/news/05/jan/iranian-flag_files/image005.gif" alt="Icons">
+<p align="center">
+  <img width="1000" height="180" src="https://www.kindpng.com/picc/m/23-232511_revolution-logo-png-transparent-png.png" alt="Icons">
 </p>
 
 ### برای شروع، فایل 'kali_install.md' را باز کنید و دستورالعمل ها را دنبال کنید.
@@ -30,7 +30,9 @@
 
   ## عمل کردن را بیاموزید - به جای واکنش نشان دادن
 
-  ![cropped-science-anonymous-l](https://user-images.githubusercontent.com/64184513/171263649-4a26e75e-5371-41d7-9e5d-9df629c41827.jpg)
+<p align="center">
+  <img width="1000" height="200" src="https://images.squarespace-cdn.com/content/v1/5e3a20bb6287bb6577adb092/1629846565191-1MRB2FK5RFSPNDLZJB11/Freedom+banner+6.jpg?format=1000w" alt="freedom">
+</p>
 
   ### پیشنهاد میکنم
 
