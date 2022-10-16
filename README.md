@@ -2,11 +2,11 @@
 
 هدف در اینجا کمک با ارائه برخی منابع و دانش است. برای مردم، توسط مردم.
 
- فایل بیشتر به زودی ترجمه خواهد شد. برای کمک لطفا با من در توییتر در @wond3rghost تماس بگیرید
-
 <p align="center">
-  <img width="1000" height="180" src="https://www.kindpng.com/picc/m/23-232511_revolution-logo-png-transparent-png.png" alt="Icons">
+  <img width="1000" height="200" src="https://images.squarespace-cdn.com/content/v1/5e3a20bb6287bb6577adb092/1629846565191-1MRB2FK5RFSPNDLZJB11/Freedom+banner+6.jpg?format=1000w" alt="freedom">
 </p>
+
+ فایل بیشتر به زودی ترجمه خواهد شد. برای کمک لطفا با من در توییتر در @wond3rghost تماس بگیرید
 
 ### برای شروع، فایل 'kali_install.md' را باز کنید و دستورالعمل ها را دنبال کنید.
 
@@ -29,10 +29,6 @@
   > https://github.com/NeverWonderLand/tellme
 
   ## عمل کردن را بیاموزید - به جای واکنش نشان دادن
-
-<p align="center">
-  <img width="1000" height="200" src="https://images.squarespace-cdn.com/content/v1/5e3a20bb6287bb6577adb092/1629846565191-1MRB2FK5RFSPNDLZJB11/Freedom+banner+6.jpg?format=1000w" alt="freedom">
-</p>
 
   ### پیشنهاد میکنم
 
