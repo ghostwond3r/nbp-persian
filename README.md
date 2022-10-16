@@ -8,7 +8,7 @@
   <img width="200" src="http://www.payvand.com/news/05/jan/iranian-flag_files/image005.gif" alt="Icons">
 </p>
 
-### برای شروع، فایل 'kali_install' را باز کنید و دستورالعمل ها را دنبال کنید.
+### برای شروع، فایل 'kali_install.md' را باز کنید و دستورالعمل ها را دنبال کنید.
 
 ### فضای اختصاصی ساخته شده توسط من و به روز
 
