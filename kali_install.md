@@ -4,16 +4,17 @@
 
 1- دانلود:
 
-    * For Windows: https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe
-    * For Linux (Debian 11): https://download.virtualbox.org/virtualbox/6.1.38/virtualbox-6.1_6.1.38-153438~Debian~bullseye_amd64.deb
+For Windows: https://download.virtualbox.org/virtualbox/6.1.38/VirtualBox-6.1.38-153438-Win.exe
+
+For Linux (Debian 11): https://download.virtualbox.org/virtualbox/6.1.38/virtualbox-6.1_6.1.38-153438~Debian~bullseye_amd64.deb
 
 2- بسته افزونه را دانلود کنید:
 
-    * https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack
+https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack
 
 3- دانلود کالی لینوکس:
 
-    * https://kali.download/virtual-images/kali-2022.3/kali-linux-2022.3-virtualbox-amd64.7z
+https://kali.download/virtual-images/kali-2022.3/kali-linux-2022.3-virtualbox-amd64.7z
 
 4- باید زیر سیستم ویندوز را برای لینوکس فعال کنید. برای انجام این کار، "ویژگی های ویندوز" را در نوار جستجوی منوی ویندوز تایپ کنید، سپس باز کنید، به پایین بروید و کادر "Windows Subsystem for Linux" را علامت بزنید، سپس ذخیره کنید، خارج شوید و کامپیوتر خود را مجددا راه اندازی کنید.
 
