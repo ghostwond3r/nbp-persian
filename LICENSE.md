@@ -1,21 +1,26 @@
-MIT License
+<hr>
 
-Copyright (c) 2022 NeverLandWonder
+<p align="center">
+    DO WHAT THE F**K YOU WANT TO PUBLIC LICENSE.
+</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+<hr>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+<p align="center">
+  Copyright (C) 2022-2023 New Blood Project (NBP)
+</p>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<p align="center">
+  Everyone is permitted to copy and distribute verbatim or modified
+  copies of this license document, and changing it is allowed as long
+  as the NAME IS CHANGED.
+</p>
+
+<p align="center">
+  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+</p>
+
+<p align="center">
+  You just DO WHAT THE F**K YOU WANT TO.
+</p>
