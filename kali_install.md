@@ -71,7 +71,5 @@ https://www.7-zip.org/download.html
 apt update && apt upgrade -y
 ```
 
-تبریک می گویم، متوجه شدید. برای یادگیری گام به گام کالی:
-```
-https://github.com/NeverWonderLand/Self-Way/blob/main/Persian/README.md
-```
+تبریک می گویم، متوجه شدید. برای یادگیری گام به گام کالی: https://github.com/NeverWonderLand/Self-Way/blob/main/Persian/README.md
+
