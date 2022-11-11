@@ -71,7 +71,7 @@ https://www.7-zip.org/download.html
 apt update && apt upgrade -y
 ```
 
-برای ادامه دستورات اولیه راه اندازی کالی لطفن به لینک زیر مراجعه و مراحل را گام به گام ادامه دهید!
+تبریک می گویم، متوجه شدید. برای یادگیری گام به گام کالی:
 ```
-https://github.com/NeverWonderLand/no-more.git
+https://github.com/NeverWonderLand/Self-Way/blob/main/Persian/README.md
 ```
