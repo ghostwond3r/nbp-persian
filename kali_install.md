@@ -6,16 +6,16 @@
 
 برای هاست ویندور:
 ```
-https://download.virtualbox.org/virtualbox/7.0.2/VirtualBox-7.0.2-154219-Win.exe
+https://download.virtualbox.org/virtualbox/7.0.4/VirtualBox-7.0.4-154605-Win.exe
 ```
 
 2- بسته افزونه ویرچوال باکس را دانلود کنید :
 ```
-https://download.virtualbox.org/virtualbox/7.0.2/Oracle_VM_VirtualBox_Extension_Pack-7.0.2.vbox-extpack
+https://download.virtualbox.org/virtualbox/7.0.4/Oracle_VM_VirtualBox_Extension_Pack-7.0.4.vbox-extpack
 ```
 3- دانلود کالی لینوکس:
 ```
-https://kali.download/virtual-images/kali-2022.3/kali-linux-2022.3-virtualbox-amd64.7z
+https://cdimage.kali.org/kali-2022.4/kali-linux-2022.4-virtualbox-amd64.7z
 ```
 4- باید بستر سیستم ویندوز را برای لینوکس فعال کنید. برای انجام این کار، "ویژگی های ویندوز" را در نوار جستجوی منوی ویندوز تایپ کنید، سپس باز کنید، به پایین بروید و کادر "Windows Subsystem for Linux" را علامت بزنید، سپس ذخیره کنید، خارج شوید و کامپیوتر خود را مجددا راه اندازی کنید.
 
