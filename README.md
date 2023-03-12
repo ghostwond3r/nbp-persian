@@ -24,15 +24,13 @@
 
  > https://start.me/p/MEDrOn/newblood
 
- > https://start.me/p/MEDrOn/knowIT
-
  > https://github.com/NeverWonderLand/no-more
 
  > https://github.com/NeverWonderLand/ressources_learning
 
  > https://github.com/NeverWonderLand/telegram_channel
-
- > https://github.com/NeverWonderLand/tellme
+ 
+ > https://t.me/NewBlood_Project
 
  -----------------------------------------------------------
 # یاد بگیر که چگونه عمل کنی به جای اینگه چگونه واکنش نشان دهی #
