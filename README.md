@@ -41,6 +41,24 @@
   <img width="1000" height="100" src="https://see.fontimg.com/api/renderfont4/7Bpow/eyJyIjoiZnMiLCJoIjo1OSwidyI6MTAwMCwiZnMiOjU5LCJmZ2MiOiIjMEU3NzBFIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V29tZW4gTGlmZSBGcmVlZG9t/broadway-regular.png" alt="banner">
 </p>
 
+# راهنما برای دسترسی به اینترنت
+
+ > https://start.me/p/ydjlMm/opiran
+ 
+ > https://start.me/p/wMbXrL/wefreeinternet
+ 
+ > https://github.com/pouramin/Iran-vpn/blob/main/vpn
+
+ > https://github.com/MrMohebi/bypass-iran-intranet
+
+ > https://github.com/straxico/v
+
+ > https://github.com/MrYazdan/IranianProxyList/
+
+ > https://github.com/TheSpeedX/PROXY-List
+ 
+ ![Anonymous](https://user-images.githubusercontent.com/64184513/171263895-ef0fafc8-24c9-4f0b-81c4-8d114629fff3.jpg)
+ 
 # پیشنهادات من جهت مطالعه 
  > https://github.com/ghostsec420/SCPA
 
@@ -71,24 +89,3 @@
 ۲. گام دوم اگر با سیستم لینوکس  آشنایی ندارید، درک ترمینال لینوکس بسیار مهم است. برای آشنایی با ترمینال لینوکس و دستورات آن می توانید لطفن به فایل "terminal.md" مراجعه کنید.
 
 ۳. لیستی از دستورات پر استفاده ترمینال لینوکس را با توضیحات آنها در فایل 'REF_terminal.md' بیابید.
-
-# وب سایت های جانبی راهنما به زبان فارسی (حتمن یه سر بزن)
- > https://start.me/p/ydjlMm/voices
-
- > https://github.com/MasterKia/PersianBlocker
-
- > https://github.com/sobhe/moratab
-
-![Anonymous](https://user-images.githubusercontent.com/64184513/171263895-ef0fafc8-24c9-4f0b-81c4-8d114629fff3.jpg)
-
-# لیست پراکسی ها
-
- > https://github.com/pouramin/Iran-vpn/blob/main/vpn
-
- > https://github.com/MrMohebi/bypass-iran-intranet
-
- > https://github.com/straxico/v
-
- > https://github.com/MrYazdan/IranianProxyList/
-
- > https://github.com/TheSpeedX/PROXY-List
